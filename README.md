@@ -1,5 +1,4 @@
 # Kamus Istilah Komputer APK
-
 Project Akhir Mobile Programming
 
 Nama : Ramadhan Arif Budiman
